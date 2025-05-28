@@ -15,5 +15,6 @@ console.log(reverseCharacters("abc564"));```
 
 
 
-![The whiteboard for this challenge](https://raw.githubusercontent.com/TasneemALMAHROUQ/challenges-and-data-structures/main/whiteboard-challenges/Reverse-Characters.png)
+![The whiteboard for this challenge](whiteboard-challenges/Reverse-Characters.png)
+
 
