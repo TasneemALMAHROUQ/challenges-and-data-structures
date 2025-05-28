@@ -8,7 +8,7 @@ Write a function that takes a single string and returns the string with all char
 console.log(reverseCharacters("javascript")); 
 console.log(reverseCharacters("elyts"));      
 console.log(reverseCharacters("nadroj"));    
-console.log(reverseCharacters("abc564"));
+console.log(reverseCharacters("abc564"));```
 
 
 
