@@ -10,6 +10,6 @@ Write a function that takes a single string and returns the string with all char
 
 
 
-![The whiteboard for this challenge](whiteboard-challenges/Reverse-Characters.png)
+![The whiteboard for this challenge][(whiteboard-challenges/Reverse-Characters.png](https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/blob/main/whiteboard-challenges/Reverse-Characters.png))
 
 
