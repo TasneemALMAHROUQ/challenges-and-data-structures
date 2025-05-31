@@ -26,6 +26,6 @@ Whiteboard Explanation: Available in the `whiteboard-challenges` folder
 
 
 
-  📢👩‍💻 # remove-middle-challenge
+  📢👩‍💻 ## remove-middle-challenge
   https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/tree/main/remove-middle-value
   
