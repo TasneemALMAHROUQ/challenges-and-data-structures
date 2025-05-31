@@ -23,3 +23,9 @@ Whiteboard Explanation: Available in the `whiteboard-challenges` folder
  📝 Notes
 - Each challenge is explained in a simple and easy-to-understand manner.
 - These solutions can be developed further to include more efficient or diverse approaches.
+
+
+
+  📢👩‍💻 ### remove-middle-challenge
+  https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/tree/main/remove-middle-value
+  
