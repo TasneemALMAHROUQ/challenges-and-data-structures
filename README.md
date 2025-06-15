@@ -30,5 +30,5 @@ Whiteboard Explanation: Available in the `whiteboard-challenges` folder
   https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/tree/main/remove-middle-value
 
 
-  - [Linked List Implementation]([./Data%20Structures/LinkedList/Linked-List-Implementation/README.md](https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/tree/main/Data%20Structures/LinkedList/Linked-List-Implementation))
+[Linked List Implementation Project](https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/tree/main/Data%20Structures/LinkedList/Linked-List-Implementation)
 
