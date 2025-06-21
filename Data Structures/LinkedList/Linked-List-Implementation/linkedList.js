@@ -1,10 +1,10 @@
-
 class Node {
   constructor(data) {
     this.data = data;
     this.next = null;
   }
 }
+
 class LinkedList {
   constructor() {
     this.head = null;
@@ -75,4 +75,5 @@ class LinkedList {
     console.log(output);
   }
 }
-module.exports = LinkedList;
+
+module.exports = { LinkedList, Node };
