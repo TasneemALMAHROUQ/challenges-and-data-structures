@@ -32,5 +32,5 @@ Whiteboard Explanation: Available in the `whiteboard-challenges` folder
 
 [Linked List Implementation Project](https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/tree/main/Data%20Structures/LinkedList/Linked-List-Implementation)
 
+## Merge Sorted Linked Lists Challenge
 - [Merge Sorted Linked Lists Challenge](./Data%20Structures/LinkedList/Linked-List-Implementation/MergeSorted/README.md)
-
