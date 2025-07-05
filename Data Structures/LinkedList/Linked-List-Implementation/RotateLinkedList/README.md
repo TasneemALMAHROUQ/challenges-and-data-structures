@@ -1,6 +1,7 @@
 ## Whiteboard
 
-![Whiteboard](../rotatewhiteboard.png)
+![Whiteboard](./rotatewhiteboard.png)
+
 
 ---
 
