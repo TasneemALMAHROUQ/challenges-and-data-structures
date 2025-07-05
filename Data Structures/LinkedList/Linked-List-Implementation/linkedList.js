@@ -9,6 +9,7 @@ class LinkedList {
   constructor() {
     this.head = null;
   }
+
   add(data) {
     const newNode = new Node(data);
     if (!this.head) {
@@ -21,6 +22,7 @@ class LinkedList {
     }
     current.next = newNode;
   }
+
   remove(data) {
     if (!this.head) return;
     if (this.head.data === data) {
@@ -35,6 +37,7 @@ class LinkedList {
       current.next = current.next.next;
     }
   }
+
   includes(data) {
     let current = this.head;
     while (current) {
@@ -43,6 +46,7 @@ class LinkedList {
     }
     return false;
   }
+
   insertAt(data, index) {
     const newNode = new Node(data);
     if (index === 0) {
@@ -64,6 +68,7 @@ class LinkedList {
     newNode.next = current;
     prev.next = newNode;
   }
+
   printList() {
     let current = this.head;
     let output = "Head -> ";
@@ -73,6 +78,42 @@ class LinkedList {
     }
     output += "Null";
     console.log(output);
+  }
+
+  rotateLeft(k) {
+    if (!this.head || !this.head.next || k === 0) {
+      return;
+    }
+
+    
+    let length = 1;
+    let tail = this.head;
+    while (tail.next) {
+      tail = tail.next;
+      length++;
+    }
+
+  
+    if (k < 0) {
+      k = ((k % length) + length) % length; 
+      k = length - k;
+    }
+
+ 
+    k = k % length;
+    if (k === 0) return;
+
+
+    let current = this.head;
+    let prev = null;
+    for (let i = 0; i < k; i++) {
+      prev = current;
+      current = current.next;
+    }
+
+    prev.next = null;
+    tail.next = this.head;
+    this.head = current;
   }
 }
 
