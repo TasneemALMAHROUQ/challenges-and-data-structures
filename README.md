@@ -23,3 +23,5 @@ Whiteboard Explanation: Available in the `whiteboard-challenges` folder
  📝 Notes
 - Each challenge is explained in a simple and easy-to-understand manner.
 - These solutions can be developed further to include more efficient or diverse approaches.
+- [Rotate Linked List](Data Structures/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
+

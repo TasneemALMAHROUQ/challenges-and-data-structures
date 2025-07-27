@@ -1,0 +1,23 @@
+{
+  "name": "challenges-and-data-structures",
+  "version": "1.0.0",
+  "description": "This repository contains two solved programming challenges using JavaScript, each accompanied by a whiteboard explanation for better understanding.",
+  "main": "MinimumValue.js",
+  "scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TasneemALMAHROUQ/challenges-and-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/TasneemALMAHROUQ/challenges-and-data-structures#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
