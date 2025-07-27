@@ -1,6 +1,7 @@
 ## Whiteboard
 
-![Whiteboard](../rotateLinkedList-rotatewhiteboard.png)
+![Whiteboard](./rotatewhiteboard.png)
+
 
 ---
 
@@ -8,6 +9,6 @@
 
 ![Console Output](./rotate-output.png)
 
-## Console Output
+## test
 
 ![testjs](./test.png)

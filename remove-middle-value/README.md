@@ -16,5 +16,5 @@ Output: [27, 8, 73, 27]
 Output: [7, 9, 13, 5, 17]
 
 ## Whiteboard Image
+![Remove-Middle-Value](https://github.com/TasneemALMAHROUQ/challenges-and-data-structures/blob/main/remove-middle-value/RemoveMiddleValueWB.png?raw=true)
 
-![Remove-Middle-Value](middleValue.png)

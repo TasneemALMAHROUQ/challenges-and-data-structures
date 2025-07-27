@@ -4,3 +4,6 @@
 
 ## Tests Output
 ![Console Output](./images/ch9tests.png)
+
+## whitwbord
+![Console Output](./images/DeleteMiddleElementofaStackWB.png)
